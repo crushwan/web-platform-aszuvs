@@ -1,3 +1,1 @@
-# web-platform-aszuvs
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-aszuvs)
+# web-platform
